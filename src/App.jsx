@@ -2,7 +2,6 @@ import "./App.css";
 import "./Mediaqueries.css";
 import React from "react";
 import linkedin from "./assets/linkedin.png";
-import resumeexample from "./assets/resumeexample.pdf";
 import github from "./assets/github.png";
 import experience from "./assets/experience.png";
 import education from "./assets/education.png";
