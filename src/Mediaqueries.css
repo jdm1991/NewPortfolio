@@ -1,0 +1,290 @@
+
+
+@media screen and (max-width: 1400px) {
+    
+    #profile {
+        height: 83vh;
+        margin-bottom: 6rem;
+    }
+
+    .about-containers {
+        flex-wrap: wrap;
+    }
+} 
+    
+
+
+@media screen and (max-width: 1200px) {
+    #desktop-nav { 
+        display: none;
+    }
+    #hamburger-nav {
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        width: 68.5%;
+    }
+
+    #experience, .experience-details-container {
+        margin-top: 2rem;
+    }
+
+    .experience-sub-title {
+        font-size: 1.5rem;
+    }
+
+    #profile, .section-container {
+        display: block;
+        margin-bottom: 2rem;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+    section, .section-container {
+        height: fit-content;
+    }
+
+    .section {
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .section__pic-container {
+        width: 8rem;
+        height: 8rem;
+        margin: 0 auto 2rem;
+    }
+
+    .about-containers {
+        margin-top: 0;
+    }
+
+    .nav-links2 {
+        font-size: 0.9rem;
+    }
+} 
+
+@media screen and (max-width: 1023px) {
+
+    #desktop-nav { 
+        display: none;
+    }
+
+    .logo {
+        font-size: 1.7rem;
+    }
+
+    #hamburger-nav {
+        display: flex;
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    #profile, .section-container {
+        display: block;
+        margin-top: 2rem;
+    }
+
+    .title, .section__text__p2 {
+        font-size: 2.8rem;
+        padding: 1.2rem;
+        margin-bottom: 0;
+    }
+
+    .about-title {
+        font-size: 1.8rem;
+        display: flex;
+        justify-content: center;
+    }
+
+    .details-container {
+        font-size: 0.8rem;
+    }
+
+    .btn {
+        width: 7.4rem;
+        height: 2.3rem;
+        margin-bottom: 2.5rem
+    }
+
+    #experience, .experience-details-container {
+        margin-top: 2rem;
+    }
+
+    .experience-sub-title {
+        font-size: 1.3rem;
+        font-weight: 900;
+    }
+
+    .coding-icons {
+        width: 2rem;
+        height: 2rem;
+    }
+
+    .article-container h3 {
+        font-size: 1rem;
+    }
+    
+    #projects {
+        margin-top: 2rem;
+    }
+
+    .project-title {
+        font-size: 1.5rem;
+    }
+
+    .vertical1, .vertical2, .vertical3 {
+        display: none;
+    }
+
+    .icon-arrow, .icon-arrow1, .icon-arrow2, .icon-arrow3, .icon-arrow4 {
+        display: none;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+    #contacts {
+        margin-top: 2rem;
+    }
+
+    .contact-info-upper-container {
+        width: 21rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .email {
+        font-size: 0.8rem;
+    }
+
+    section, .section-container {
+        height: fit-content;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .section {
+        width: 80%;
+    }
+
+    .section__pic-container {
+        width: 8rem;
+        height: 8rem;
+        margin-bottom: 0.6rem;
+    }
+
+    .footer {
+        font-size: 0.7rem;
+    }
+
+    .nav-links2 {
+        font-size: 0.8rem;
+    }
+
+    footer {
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 2rem;
+    }
+} 
+
+@media screen and (max-width: 480px) {
+
+
+/* Profile */
+
+.title, .section__text__p2 {
+    font-size: 2rem;
+    padding: 0.7rem;
+}
+
+.btn {
+    width: 5.4rem;
+    height: 2rem;
+    font-size: 0.6rem;
+}
+
+.icon {
+    height: 1.4rem;
+    width: 1.4rem;
+}
+
+/* About */
+
+.details-container .colour-container {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.7rem;
+    padding: 1rem;
+}
+
+.details-container p {
+    font-size: 0.6rem;
+    padding: 0.4rem;
+}
+
+.about-title {
+    font-size: 1.8rem;
+    display: flex;
+    justify-content: center;
+}
+
+/* Experience */
+
+.article-container h3 p {
+    font-size: 1.2rem;
+}
+
+.coding-icons {
+    width: 3rem;
+    height: 3rem;
+}
+
+.article-container {
+    gap: 0.6;
+}
+
+/* Contact */
+
+.contact-info-upper-container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.email {
+    font-size: 0.6rem;
+}
+
+/* Footer */
+
+.nav-links-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-p {
+    font-size: 0.6rem;
+}
+
+.nav-links2 {
+    gap: 0.1rem;
+    font-size: 0.6rem;
+}
+
+}
