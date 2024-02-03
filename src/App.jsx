@@ -72,7 +72,7 @@ function App() {
       </nav>
       <section id="profile">
         <div className="section__pic-container">
-          <img src="src/assets/Jackpicpng.png" alt="picture" />
+          <img src="src/assets/jackpicpng.png" alt="picture" />
         </div>
         <div className="section__text">
           <p className="section__text__p1">Hello, I am</p>
