@@ -108,12 +108,12 @@ function App() {
           </div>
         </div>
         <div className="vertical1"><p> examplemail@outlook.com</p></div>
-        {/* <img
+        <img
           className="icon-arrow1"
           src="/arrow.png"
           alt="Arrow"
           onClick={() => (window.location.href = "#about")}
-        /> */}
+        />
       </section>
       <section id="about">
         <div>
