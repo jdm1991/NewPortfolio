@@ -8,6 +8,7 @@ import education from "./assets/education.png";
 import arrow from "./assets/arrow.png";
 import project1 from "./assets/project1.png";
 import email from "./assets/email.png";
+import jackpicpng from "./assets/jackpicpng.png";
 
 function App() {
   function toggleMenu() {
