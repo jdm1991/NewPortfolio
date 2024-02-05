@@ -275,12 +275,12 @@ function App() {
           </div>
         </div>
         <div className="vertical3"><p> Get in touch today</p></div>
-        <img
+        {/* <img
           className="icon-arrow"
           src={arrow}
           alt="Arrow"
           onClick={() => (window.location.href = "#projects")}
-        />
+        /> */}
       </section>
       <section id="projects">
       <div>
