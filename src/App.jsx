@@ -1,6 +1,7 @@
 import "./App.css";
 import "./Mediaqueries.css";
 import React from "react";
+import arrow from "./public/arrow.png";
 
 function App() {
   function toggleMenu() {
