@@ -109,12 +109,12 @@ function App() {
           </div>
         </div>
         <div className="vertical1"><p> examplemail@outlook.com</p></div>
-        <img
+        {/* <img
           className="icon-arrow1"
           src="/arrow.png"
           alt="Arrow"
           onClick={() => (window.location.href = "#about")}
-        />
+        /> */}
       </section>
       <section id="about">
         <div>
@@ -158,12 +158,12 @@ function App() {
           </div>
         </div>
         <div className="vertical2"><p> Available on a fulltime, part time, or freelance basis.</p></div>
-        <img
+        {/* <img
           className="icon-arrow2"
           src="/arrow.png"
           alt="Arrow"
           onClick={() => (window.location.href = "#experience")}
-        />
+        /> */}
       </section>
       <section id="experience">
       <div>
@@ -358,12 +358,12 @@ function App() {
             </div>
           </div>
         </div>
-        <img
+        {/* <img
           className="icon-arrow4"
           src="/arrow.png"
           alt="Arrow"
           onClick={() => (window.location.href = "#contacts")}
-        />
+        /> */}
       </section>
       <section id="contacts">
        <div>
