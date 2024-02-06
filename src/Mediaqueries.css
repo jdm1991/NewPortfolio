@@ -22,11 +22,10 @@
         display: flex;
         margin-left: 10rem;
         margin-right: 10rem;
-
     }
 
     #experience, .experience-details-container {
-        margin-top: 2rem;
+        margin-top: 5px;
     }
 
     .experience-sub-title {
@@ -35,7 +34,7 @@
 
     #profile, .section-container {
         display: block;
-        margin-bottom: 2rem;
+        margin-bottom: 5px;
     }
 
     .arrow {
@@ -85,7 +84,7 @@
 
     #profile, .section-container {
         display: block;
-        margin-top: 2rem;
+        margin-top: 5px;
     }
 
     .title, .section__text__p2 {
@@ -111,7 +110,7 @@
     }
 
     #experience, .experience-details-container {
-        margin-top: 2rem;
+        margin-top: 5px;
     }
 
     .experience-sub-title {
@@ -129,7 +128,7 @@
     }
     
     #projects {
-        margin-top: 2rem;
+        margin-top: 5px;
     }
 
     .project-title {
@@ -149,7 +148,7 @@
     }
 
     #contacts {
-        margin-top: 2rem;
+        margin-top: 5px;
     }
 
     .contact-info-upper-container {
@@ -194,7 +193,7 @@
         width: 80%;
         margin-right: auto;
         margin-left: auto;
-        margin-top: 2rem;
+        margin-top: 5px;
     }
 } 
 
