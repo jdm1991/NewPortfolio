@@ -31,9 +31,9 @@ a, .btn {
 /* Desktop navigation */
 
 #desktop-nav {
-  width: 77.3%;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 10rem;
+  box-sizing: border-box;
+  margin-bottom: 5px;
 }
 
 nav, .nav-links {

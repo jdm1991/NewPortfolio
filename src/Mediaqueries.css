@@ -20,9 +20,9 @@
     }
     #hamburger-nav {
         display: flex;
-        margin-left: auto;
-        margin-right: auto;
-        width: 68.5%;
+        margin-left: 10rem;
+        margin-right: 10rem;
+
     }
 
     #experience, .experience-details-container {
