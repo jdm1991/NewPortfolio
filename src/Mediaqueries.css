@@ -4,7 +4,7 @@
     
     #profile {
         height: 83vh;
-        margin-bottom: 6rem;
+        margin-bottom: 5px;
     }
 
     .about-containers {
@@ -34,7 +34,11 @@
 
     #profile, .section-container {
         display: block;
-        margin-bottom: 5px;
+        margin-bottom: 0px;
+    }
+
+    #about{
+        margin-top: 5px;
     }
 
     .arrow {
