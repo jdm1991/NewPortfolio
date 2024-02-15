@@ -107,7 +107,7 @@ function App() {
             />
           </div>
         </div>
-        <div className="vertical1"><p> examplemail@outlook.com</p></div>
+        <div className="vertical1"><p>jdmiller1991@outlook.com</p></div>
         <img
           className="icon-arrow1"
           src="/arrow.png"
