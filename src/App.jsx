@@ -372,7 +372,7 @@ function App() {
         <div className="contact-info-upper-container">
           <div className="contact-info-container">
             <img className="icon contact-icon email-icon" src="/email.png" alt="email" />
-            <a className="email" href="mailto:examplemail.com">example@gmail.com</a>
+            <a className="email" href="mailto:examplemail.com">jdmiller1991@outlook.com</a>
           </div>
           <div className="contact-info-container">
             <img className="icon contact-icon" src="/linkedin.png" alt="linkedin" />
